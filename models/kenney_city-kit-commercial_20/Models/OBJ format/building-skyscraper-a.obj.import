@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dolhnweg8npoh"
+path="res://.godot/imported/building-skyscraper-a.obj-70cbd19cd97e2b3807b6aa2392d753ce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building-skyscraper-a.obj-70cbd19cd97e2b3807b6aa2392d753ce.mesh"]
+
+source_file="res://assets/kenney/kenney_city-kit-commercial_20/Models/OBJ format/building-skyscraper-a.obj"
+dest_files=["res://.godot/imported/building-skyscraper-a.obj-70cbd19cd97e2b3807b6aa2392d753ce.mesh", "res://.godot/imported/building-skyscraper-a.obj-70cbd19cd97e2b3807b6aa2392d753ce.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
